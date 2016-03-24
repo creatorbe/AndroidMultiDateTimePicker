@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0-alpha1_74d1521de7c8cee14bda0c97c369dfafb8e9c536.jar" />
+    </item>
+    <item
+        jar="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0-alpha1_1bc666ce3b1f9b9f0f06cd3159b3c08638a8b72d.jar" />
+    </item>
+    <item
+        jar="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0-alpha1_f94c9bea1a02b4a4d4da4be3658248e0f81e52ba.jar" />
+    </item>
+    <item
+        jar="/Users/creatorbe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1_19047af4786b4e5247c04ed730dabd207f8f20da.jar" />
+    </item>
+    <item
+        jar="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0-alpha1_7ca1bf238e2d096ab78b1f5287d4dbf3495c8ed6.jar" />
+    </item>
+    <item
+        jar="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/creatorbe/project/benatu-pck/code/datepicker/TimePicker/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1_d98f31c720d2343cc4f443044ae26168c53e2f48.jar" />
+    </item>
+
+</items>
